@@ -69,6 +69,33 @@ body .test {
   -webkit-filter: blur(1px);
           filter: blur(1px);
 }
+.mediashare{
+  width: 360px;
+  height: 50px;
+  /*ox-shadow: 1px 1px 8px 8px #212F3C;*/
+  color: white;
+}
+#gt:hover
+{
+  border-radius: 3%;
+  background-color: #2E4053;
+  /*ox-shadow: 1px 1px 8px 8px #212F3C;*/
+  color: white;
+}
+#tw:hover
+{
+  border-radius: 3%;
+  background-color: #2E4053;
+  /*ox-shadow: 1px 1px 8px 8px #212F3C;*/
+  color: white;
+}
+#ins:hover
+{
+  border-radius: 3%;
+  background-color: #2E4053;
+  /*ox-shadow: 1px 1px 8px 8px #212F3C;*/
+  color: white;
+}
 body .login {
   opacity: 1;
   top: 20px;
